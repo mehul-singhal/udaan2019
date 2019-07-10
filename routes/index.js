@@ -7,7 +7,7 @@ var Worker = require("../models/worker");
 router.get("/", function(req, res, next) {
   res.json({
     Message:
-      "Please check the documentation for different routes. The documentation is available at https://github.com/mehul-singhal/udaan"
+      "Please check the documentation for different routes. The documentation is available at https://github.com/mehul-singhal/udaan2019"
   });
 });
 
