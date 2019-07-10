@@ -88,4 +88,4 @@ failure response : {{message : error}}
 success response : {{message : success}}
 ```
 
-### This API is built using Nodejs and express with MongoDB as the database and is hosted on Heroku
+### This API is built using Node.JS and express with MongoDB as the database and is hosted on Heroku
