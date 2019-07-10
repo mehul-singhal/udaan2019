@@ -10,7 +10,7 @@ In every big Organization like School, Offices, Apartment complexes, hotels e.t.
 
 This product helps manage and execute the duties and various tasks of this organization.
 
-### Instal Dependencies
+### Install Dependencies
 
 ```
 npm i
