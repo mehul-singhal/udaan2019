@@ -88,4 +88,9 @@ failure response : {{message : error}}
 success response : {{message : success}}
 ```
 
+### The link for the Android application of the given Problem Statement is as follows: 
+```
+https://drive.google.com/drive/folders/1416vhbla4RCzlDQji_kFHrwS5BreHr1d?usp=sharing
+```
+
 ### This API is built using Node.JS and express with MongoDB as the database and is hosted on Heroku
