@@ -8,7 +8,7 @@ A product to solve the problem statement given during test.
 
 In every big Organization like School, Offices, Apartment complexes, hotels e.t.c. there are number of assets that needs constant monitoring and upkeeping. Usually you would have observed that there is a specific team called house keeping that have to ensure that all assets and facilites is kept in working and usable conditions.
 
-This product helps manage and execute the duties and various tasks of this organization.
+This product helps manage and execute the duties and various tasks of these organization.
 
 ### Install Dependencies
 
