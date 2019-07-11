@@ -93,9 +93,9 @@ success response : {{message : success}}
 https://drive.google.com/drive/folders/1416vhbla4RCzlDQji_kFHrwS5BreHr1d?usp=sharing
 ```
 
-### This API is built using Node.JS and express with MongoDB as the database and is hosted on Heroku.
-
 ### The github link of the project 
 ```
 https://github.com/mehul-singhal/udaan2019
 ```
+
+### This API is built using Node.JS and express with MongoDB as the database and is hosted on Heroku.
