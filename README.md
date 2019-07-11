@@ -22,7 +22,7 @@ npm i
 node ./bin/www
 ```
 
-In case of running Locally local mongo client is necessary.
+NOTE: In case of running locally - local mongo client is necessary.
 
 ## This API is Hosted at [Click Here](https://house-keeping-mehul.herokuapp.com)
 
